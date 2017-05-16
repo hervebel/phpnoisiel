@@ -14,5 +14,7 @@ and open the template in the editor.
         // put your code here
         ?>
         <h1>Bonjour PHP Noisiel!!</h1>
+        
+        <P>Succcesful git Hop Hub</P>
     </body>
 </html>
