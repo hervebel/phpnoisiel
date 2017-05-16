@@ -16,5 +16,6 @@ and open the template in the editor.
         <h1>Bonjour PHP Noisiel!!</h1>
         
         <P>Succcesful git Hop Hub</P>
+		<p>be bop</p>
     </body>
 </html>
